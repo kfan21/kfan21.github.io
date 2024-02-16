@@ -4,9 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-# Publications
-
 <style>
         a.blue-text {
         color: #87CEEB;
@@ -27,7 +24,7 @@ author_profile: true
 
 </p>
 </li>
-
+</ul>
 
 # Preprints
 
