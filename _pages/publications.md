@@ -15,9 +15,9 @@ author_profile: true
 <ul>
 
 <li>
-<p><b>Learning Prior Feature and Attention Enhanced Image Inpainting</b>
-<br />Sixiao Zheng<a>*</a>,, Ke Fan<a>*</a>,, Yanxi Hou, Jianfeng Feng, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
-<br /> European Conference on Computer Vision (<strong>ECCV</strong>), 2022. <br /> 
+<p><b>Clustering by the Probability Distributions From Extreme Value Theory</b>
+<br />Sixiao Zheng<a>*</a>,, Ke Fan<a>*</a>, Yanxi Hou, Jianfeng Feng, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br /> IEEE Transactions on Artificial Intelligence, 2022. <br /> 
 <a href="https://ieeexplore.ieee.org/document/9720078" class="blue-text">Link</a> |
 <a href="https://arxiv.org/pdf/2202.09784.pdf" class="blue-text">Paper</a> |
 <a href="https://github.com/sixiaozheng/EVT-K-means" class="blue-text">Code</a> |
