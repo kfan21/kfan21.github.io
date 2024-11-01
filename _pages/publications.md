@@ -15,8 +15,49 @@ author_profile: true
 <ul>
 
 <li>
+<p><b>Adaptive Slot Attention: Object Discovery with Dynamic Slot Number</b>
+<br />Ke Fan, Zechen Bai, Tianjun Xiao, Tong He, Max Horn, Yanwei Fu, Francesco Locatello, Zheng Zhang<sup><a title='Corresponding author'>✉</a></sup>
+<br /> CVPR, 2024, pp. 23062-23071. <br /> 
+<a href="https://arxiv.org/pdf/2309.09858.pdf" class="blue-text">Paper</a> |
+<a href="https://kfan21.github.io/AdaSlot/" class="blue-text">Code</a>
+
+</p>
+</li>
+
+
+<li>
+<p><b>Test-Time Linear Out-of-Distribution Detection</b>
+<br />Ke Fan<a>*</a>, Tong Liu<a>*</a>, Xingyu Qiu, Yikai Wang, Lian Huai, Zeyu Shangguan, Shuang Gou, Fengjian Liu, Yuqian Fu, Yanwei Fu, Xingqun Jiang<sup><a title='Corresponding author'>✉</a></sup>
+<br /> CVPR, 2024, pp. 23752-23761. <br /> 
+<a href="https://arxiv.org/pdf/2309.09858.pdf" class="blue-text">Paper</a> |
+<a href="https://github.com/kfan21/RTL" class="blue-text">Code</a> |
+
+</p>
+</li>
+
+
+<li>
+<p><b>Unsupervised Open-Vocabulary Object Localization in Videos</b>
+<br />Ke Fan<a>*</a>, Zechen Bai<a>*</a>, Tianjun Xiao, Dominik Zietlow, Max Horn, Zixu Zhao, Carl-Johann Simon-Gabriel, Mike Zheng Shou, Francesco Locatello, Bernt Schiele, Thomas Brox, Zheng Zhang, Yanwei Fu, Tong He<sup><a title='Corresponding author'>✉</a></sup>
+<br /> ICCV, 2023; CVPR 2024 Workshop CORR. <br /> 
+<a href="https://arxiv.org/pdf/2309.09858.pdf" class="blue-text">Paper</a> |
+<a href="https://github.com/amazon-science/object-centric-vol" class="blue-text">Code</a> |
+</p>
+</li>
+
+<li>
+<p><b>Rethinking Amodal Video Segmentation from Learning Supervised Signals with Object-centric Representation</b>
+<br />Ke Fan<a>*</a>, Jingshi Lei<a>*</a>, Xuelin Qian, Miaopeng Yu, Tianjun Xiao, Tong He, Zheng Zhang, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br /> ICCV, 2023. <br /> 
+<a href="https://arxiv.org/pdf/2309.13248.pdf" class="blue-text">Paper</a> |
+<a href="https://github.com/amazon-science/efficient-object-centric-representation-amodal-segmentation" class="blue-text">Code</a> |
+
+</p>
+</li>
+
+<li>
 <p><b>Clustering by the Probability Distributions From Extreme Value Theory</b>
-<br />Sixiao Zheng<a>*</a>,, Ke Fan<a>*</a>, Yanxi Hou, Jianfeng Feng, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br />Sixiao Zheng<a>*</a>, Ke Fan<a>*</a>, Yanxi Hou, Jianfeng Feng, and Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
 <br /> IEEE Transactions on Artificial Intelligence, 2022. <br /> 
 <a href="https://ieeexplore.ieee.org/document/9720078" class="blue-text">Link</a> |
 <a href="https://arxiv.org/pdf/2202.09784.pdf" class="blue-text">Paper</a> |
