@@ -15,6 +15,23 @@ author_profile: true
 <ul>
 
 <li>
+<p><b>A New Formulation of Lipschitz Constrained With Functional Gradient Learning for GANs</b>
+<br />Chang Wan, Ke Fan, Xinwei Sun, Yanwei Fu, Minglu Li, Yunliang Jiang, Zhonglong Zheng<sup><a title='Corresponding author'>✉</a></sup>
+<br /> Machine Learning <br /> 
+</p>
+</li>
+
+<li>
+<p><b>Repositioning the Subject within Image</b>
+<br />Yikai Wang, Chenjie Cao, Ke Fan, Qiaole Dong, Yifan Li, Xiangyang Xue, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>
+<br /> TMLR, 2024 <br /> 
+<a href="https://openreview.net/forum?id=orHH4fCtR8" class="blue-text">Paper</a> |
+<a href="https://github.com/Yikai-Wang/SEELE-ReS" class="blue-text">Code</a> |
+
+</p>
+</li>
+
+<li>
 <p><b>Adaptive Slot Attention: Object Discovery with Dynamic Slot Number</b>
 <br />Ke Fan, Zechen Bai, Tianjun Xiao, Tong He, Max Horn, Yanwei Fu<sup><a title='Corresponding author'>✉</a></sup>, Francesco Locatello, Zheng Zhang
 <br /> CVPR, 2024 <br /> 
